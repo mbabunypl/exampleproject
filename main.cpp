@@ -7,7 +7,7 @@ int main(){
   std::cout << x+y << std::endl;
   cout << "Hello Wrld" << std::endl;
   std::cout << x << std::endl;
-  find_first_of
+  int square(3);
 
  
 }
